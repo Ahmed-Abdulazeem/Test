@@ -2,8 +2,8 @@
 
 int main(void)
 {
-
-printf("Hello World");
+printf("Hello");
+printf("World");
 
 return 0;
 }
